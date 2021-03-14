@@ -1,4 +1,4 @@
-# Proyecto Final - Certificado Experto en Minería de Datos
+# Modelo predictivo de la asistencia de pacientes a sus citas médicas
 Proyecto final para el certificado experto en Minería de Datos
 
 Se trata de la implementación de un modelo predictivo para la asistencia de pacientes a citas médicas.  El proyecto fue desarrollado en el lenguaje R.
